@@ -8,7 +8,7 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsat0317)
 
 ## 소속
-* 충남과학고등학교 (과학과)
+* 충남과학고등학교 (과학과)(인문예술차장)
 * 양사 소프트 (대표)
 * 고양이들의 코딩 위원회 (부위원장)
 * 개발팀 DIGNORE (스텝, 탈퇴신청서 보류)

@@ -18,7 +18,7 @@
 * 고교동아리 Informatica (기장)
 
 ## 연락처
-* sat0317@naver.com 이메일
 * cnsh27_1106@cnsh.hs.kr 학술용 이메일
-* cyangsa10@google.com 개인 업무용
-* 050713332132 전화(업무용)
+* cyangsa10@google.com 개인 업무용 이메일
+* +82 050-7133-32132 전화(업무용)
+* sat0317@naver.com 개인 일반 이메일

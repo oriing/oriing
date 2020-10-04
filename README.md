@@ -1,9 +1,12 @@
 ## Hello World! 
-안녕하세요! 저는 '양사' 라는 닉네임으로 활동하는 고등학생 박정식입니다.
+안녕하세요! 저는 '양사' 라는 닉네임으로 활동하는 고등학생 박정식입니다.<br>
+Hello, I'm a Highschool student, Park Jeongsik in REPUBLIC OF KOREA. I also use nickname, yangsa.
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=sat0317&show_icons=true)
-![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=sat0317)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsat0317)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsat0317)<br>
+![Statistics](https://github-readme-stats.vercel.app/api?username=sat0317&show_icons=true)<br>
+![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=sat0317)<br>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sat0317&title_color=37ba9b)<br>
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=sat0317&title_color=37ba9b)<br>
 
 ## 소속
 * 충남과학고등학교 (과학과)(학생회 인문예술차장)
@@ -18,6 +21,7 @@
 ## 연락처
 * cnsh27_1106@cnsh.hs.kr 학술용 이메일
 * cyangsa10@google.com 개인 업무용 이메일
+* 박정식(양사)#4067 Discord
 
 ## 주요 과학부문 수상
 ### 교외상

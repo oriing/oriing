@@ -8,7 +8,7 @@ Hello, I'm a Highschool student, Park Jeongsik in REPUBLIC OF KOREA. I also use 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=sat0317&title_color=009300)<br>
 
 ## 소속
-* 충남과학고등학교 (과학과)(학생회 인문예술차장)
+* 충남과학고등학교 (과학과 정보전공반)(학생회 인문예술차장)
 * 양사 소프트 (대표)
 * 고양이들의 코딩 위원회 (부위원장/카페관리팀장(겸직))
 * 개발팀 DIGNORE (스텝)(탈퇴신청서 보류)

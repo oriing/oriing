@@ -3,7 +3,7 @@
 Hello, I'm a Highschool student, Park Jeongsik in REPUBLIC OF KOREA. I also use nickname, yangsa.
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsat0317)<br>
-![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=sat0317)<br>
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=sat0317)](https://solved.ac/sat0317)<br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sat0317&title_color=009300)<br>
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=sat0317&title_color=009300)<br>
 

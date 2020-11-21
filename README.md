@@ -1,6 +1,6 @@
-a## Hello World! 
+## Hello World! 
 안녕하세요! 저는 '양사' 라는 닉네임으로 활동하는 고등학생 박정식입니다.<br>
-Hello, I'm a Highschool student, Jeongsik Park in REPUBLIC OF KOREA. I also use nickname, yangsa.
+Hello, I'm a Highschool student, Jeongsik Park in REPUBLIC OF KOREA. I also use nickname, Yangsa.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsat0317)](https://github.com/sat0317)<br>
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=sat0317)](https://solved.ac/sat0317)<br>
@@ -16,24 +16,15 @@ Hello, I'm a Highschool student, Jeongsik Park in REPUBLIC OF KOREA. I also use 
 * 고등학교 정보학술동아리 Informatica (기장)
 * 고등학교 교지편집동아리 내마음
 * 고등학교 정보동아리 #include (기장)
+* 한국오목협회 (준회원)
 
 ## 연락처
 * cnsh27_1106@cnsh.hs.kr 학술용 이메일
 * cyangsa10@google.com 개인 업무용 이메일
 * 박정식(양사)#4067 Discord
 
-## 주요 과학부문 수상
-### 교외상
-* 2016 춘천로봇캠프 최우수상 (강원정보문화진흥원장상)
-* 2018 제20회충남정보올림피아드 경시부문 동상 (충청남도교육감상)
-* 2018 제1회충남꿈나무코딩에듀톤 중등부문 장영실상 (공주교육대학교총장상)
-* 2019 정보올림피아드 1차대회 지역대회 은상, 전국대회 은상 (한국정보과학회장상)
-* 2019 정보올림피아드 2차대회(전국대회) 장려상 (한국정보과학회장상)
-### 교내상
-* 중등 2학년 1학기 교과우수상 정보
-* 중등 2학년 2학기 교과우수상 기술/가정, 정보
-* 중등 3학년 과학토론대회 은상(2위)
-* 중등 3학년 1학기 교과우수상 수학
-* 중등 3학년 2학기 교과우수상 수학
-* 고등 1학년 1학기 과목우수상 정보과학
-* 고등 1학년 수학자율과제연구페스티벌 통계부문 은상(2위)
+
+## 연구활동
+* 송채빈, 정선주, 박정식(2020). 바이럴 계수를 통한 OTT 서비스 기반 콘텐츠 플랫폼의 확대 경향성에 관한 연구. 충남과학고등학교 수학자율과제연구 페스티벌.
+* 박정식(2020). 음악의 반음 증감에 따른 조바꿈. 충남과학고등학교.
+

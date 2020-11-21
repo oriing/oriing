@@ -29,4 +29,4 @@ Hello, I'm a Highschool student, Jeongsik Park in REPUBLIC OF KOREA. I also use 
 * 박정식(2020). 음악의 반음 증감에 따른 조바꿈. 충남과학고등학교.
 
 <br><br><br><br>
-저에 대해 추가로 알고 싶으신 분은 information.md 파일을 참고해주세요 :)
+저에 대해 추가로 알고 싶으신 분은 [[information.md]] 파일을 참고해주세요 :)

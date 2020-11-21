@@ -28,3 +28,5 @@ Hello, I'm a Highschool student, Jeongsik Park in REPUBLIC OF KOREA. I also use 
 * 송채빈, 정선주, 박정식(2020). 바이럴 계수를 통한 OTT 서비스 기반 콘텐츠 플랫폼의 확대 경향성에 관한 연구. 충남과학고등학교 수학자율과제연구 페스티벌.
 * 박정식(2020). 음악의 반음 증감에 따른 조바꿈. 충남과학고등학교.
 
+<br><br><br><br>
+저에 대해 추가로 알고 싶으신 분은 information.md 파일을 참고해주세요 :)

@@ -16,6 +16,7 @@ Hello, I'm a Highschool student, Jeongsik Park in REPUBLIC OF KOREA. I also use 
 * 고등학교 정보학술동아리 Informatica (기장)
 * 고등학교 교지편집동아리 내마음
 * 고등학교 정보동아리 #include (기장)
+* 고등학교 정보보안동아리 정코동 (차기대표내정자)
 * 한국오목협회 (준회원)
 
 ## 연락처

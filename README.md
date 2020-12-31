@@ -8,7 +8,6 @@ Hello, I'm a Highschool student, Jeongsik Park in REPUBLIC OF KOREA. I also use 
 <br>
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=sat0317)](https://solved.ac/sat0317)<br>
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=sat0317&title_color=009300)](https://github.com/sat0317)<br>
-
 [![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=sat0317&title_color=009300)](https://github.com/sat0317)<br>
 <br>
 

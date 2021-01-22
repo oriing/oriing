@@ -28,7 +28,7 @@ Hello, I'm a Highschool student, Jeongsik Park in REPUBLIC OF KOREA. I also use 
 * cnsh27_1106@cnsh.hs.kr 학술용 이메일
 * cyangsa10@google.com 개인 업무용 이메일
 * 박정식(양사)#4067 Discord
-* 050-7133-32132 개인 업무용 전화번호
+* +82 50-7133-32132 개인 업무용 전화번호
 
 
 ## 연구활동

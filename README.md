@@ -7,7 +7,6 @@ Hello, I'm a Highschool student, Jeongsik Park in REPUBLIC OF KOREA. I also use 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsat0317)](https://github.com/sat0317)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cyangsa10@gmail.com)](mailto:cyangsa10@gmail.com)
 <br>
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=sat0317)](https://solved.ac/sat0317)<br>
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=sat0317&title_color=009300)](https://github.com/sat0317)<br>
 [![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=sat0317&title_color=009300)](https://github.com/sat0317)<br>
 <br>

@@ -1,6 +1,6 @@
 ## Hello World! 
 안녕하세요! 저는 '양사' 라는 닉네임으로 활동하는 고등학생 박정식입니다.<br>
-Hello, I'm a Highschool student, Jeongsik Park in REPUBLIC OF KOREA. I also use nickname, Yangsa.
+Hello, I'm a Highschool student, Jeongsik Park in Republic of KOREA. I also use nickname, Yangsa.
 
 
 [![Github Followers](https://img.shields.io/github/followers/sat0317?color=009300&label=Github%20Followers&style=for-the-badge)](https://github.com/sat0317?tab=followers)
@@ -26,7 +26,7 @@ Hello, I'm a Highschool student, Jeongsik Park in REPUBLIC OF KOREA. I also use 
 ## 연락처
 * cnsh27_1106@cnsh.hs.kr 학술용 이메일
 * cyangsa10@google.com 개인 업무용 이메일
-* +82 50-7133-32132 개인 업무용 전화번호
+* +82 50-7133-32132 개인 업무용 전화번호 (전화만)
 
 
 ## 연구활동

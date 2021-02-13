@@ -15,7 +15,7 @@ Hello, I'm a Highschool student, Jeongsik Park in Republic of KOREA. I also use 
 * 충남과학고등학교 (과학과 정보전공반)(학생회 인문예술차장)
 * 양사 소프트 (대표)
 * 고양이들의 코딩 위원회 (부위원장/외부서비스관리팀장(겸직))
-* 개발팀 DIGNCORE (스텝) (탈퇴신청서 보류)
+* 개발팀 DIGNCORE (스텝)(탈퇴신청서 보류)
 * 카카오톡 오픈채팅방 작곡/작사하는 사람들의 모임 (방장)
 * 고등학교 정보학술동아리 Informatica (기장)
 * 고등학교 교지편집동아리 내마음

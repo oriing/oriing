@@ -18,9 +18,8 @@ Hello, I'm a Highschool student, Jeongsik Park in Republic of KOREA. I also use 
 * 개발팀 DIGNCORE (스텝)(탈퇴신청서 보류)
 * 카카오톡 오픈채팅방 작곡/작사하는 사람들의 모임 (방장)
 * 고등학교 정보학술동아리 Informatica (기장)
-* 고등학교 교지편집동아리 내마음
-* 고등학교 정보동아리 #include (기장)
-* 고등학교 커뮤니티운영동아리 정코동 (차기대표내정자)
+* 고등학교 정보동아리 #include (대표)
+* 고등학교 커뮤니티운영동아리 정코동 (대표)
 * 한국오목협회 (준회원)
 
 ## 연락처

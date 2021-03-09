@@ -8,7 +8,8 @@ Hello, I'm a Highschool student, Jeongsik Park in Republic of KOREA. I also use 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cyangsa10@gmail.com)](mailto:cyangsa10@gmail.com)
 <br>
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=sat0317&title_color=009300)](https://github.com/sat0317)<br>
-[![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=sat0317&title_color=009300)](https://github.com/sat0317)<br>
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sat0317&layout=compact&langs_count=10&title_color=009300)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=sat0317&theme=chalk&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 ## 소속

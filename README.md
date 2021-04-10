@@ -35,4 +35,4 @@ Hello, I'm a Highschool student, Jeongsik Park in Republic of KOREA. I also use 
 * 박정식, 신원준, 한지훈, 박정호. (2021). "아두이노를 활용한 청각 대체 보조기구 개발". 충남과학고등학교 창벽, 21(1), 119-126.
 
 <br><br><br><br>
-저에 대해 추가로 알고 싶으신 분은 [information.md](information.md) 파일을 참고해주세요 :)
+저를 영입하거나 의뢰 또는 요청을 하고자 하신 분들 중 이력 확인을 원하시는 분은 [information.md](information.md) 파일을 참고해주세요 :)

@@ -23,6 +23,7 @@ Hello, I'm a Highschool student, Jeongsik Park in Republic of KOREA. I also use 
 * 고등학교 문헌정보동아리 헤르메스 (명예부원)
 * 고등학교 토론일반동아리 시사톡톡 (대표)
 * 고등학교 화학실험동아리 Enthalpy (명예부원)
+* 고등학교 상상이룸동아리 무한상상 (명예부원)
 
 ## 연락처
 * cnsh27_1106@cnsh.hs.kr 학술용 이메일

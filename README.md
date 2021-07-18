@@ -1,6 +1,6 @@
 ## Hello World! 
-안녕하세요! 저는 '양사' 라는 닉네임으로 활동하는 고등학생 박정식입니다.<br>
-Hello, I'm a Highschool student, Jeongsik Park in Republic of KOREA. I also use nickname, Yangsa.
+안녕하세요! 저는 '양사' 라는 닉네임으로 활동하는 고등학생 박정식입니다. 대한민국의 인디 프로그래머로 활동하고 있습니다.<br>
+Hello, I'm a Highschool student, Park Jeongsik (nickname: Yangsa) in Republic of Korea. I also work as an indie developer.
 
 
 [![Github Followers](https://img.shields.io/github/followers/sat0317?color=009300&label=Github%20Followers&style=for-the-badge)](https://github.com/sat0317?tab=followers)

@@ -14,23 +14,24 @@ Hello, I'm a Highschool student, Park Jeongsik (nickname: Yangsa) in Republic of
 [![solved.ac Tier](http://mazassumnida.wtf/api/generate_badge?boj=sat0317)](https://solved.ac/sat0317)
 <br>
 
-## 소속
-* 충남과학고등학교 (과학과 정보전공반)(학생회 인문예술차장)(학급반장)
-* 양사 소프트 (대표)
+## 소속 (Affiliation)
+* 충남과학고등학교 (과학과 정보전공반)(학생회 인문예술차장) (Chungnam Science Highschool)
+* 양사 소프트 (대표) (Yangsa Soft)
 * C-3 (부위원장/외부서비스관리팀장(겸직))
-* 카카오톡 오픈채팅방 작곡/작사하는 사람들의 모임 (방장)
-* 고등학교 정보과학학술동아리 Informatica (기장)
-* 고등학교 정보동아리 #include (대표)
-* 고등학교 커뮤니티운영동아리 정코동 (대표)
-* 고등학교 문헌정보동아리 헤르메스 (명예부원)
-* 고등학교 토론일반동아리 시사톡톡 (대표)
-* 고등학교 화학실험동아리 Enthalpy (명예부원)
-* 고등학교 상상이룸동아리 무한상상 (명예부원)
+* 카카오톡 오픈채팅방 작곡/작사하는 사람들의 모임 (방장) (Kakaotalk OpenChat 'a Group of Songwriters')
+* 고등학교 정보과학학술동아리 Informatica (기장) (Highschool informatics club 'Informatica')
+* 고등학교 정보동아리 #include (대표) (Highschool informatics club '#include')
+* 고등학교 커뮤니티운영동아리 정코동 (대표) (Highschool community-management club 'JungCoDong')
+* 고등학교 문헌정보동아리 헤르메스 (명예부원) (Highschool library club 'Hermes')
+* 고등학교 토론일반동아리 시사톡톡 (대표) (Highschool debate club 'CurrentEventsTalkTalk')
+* 고등학교 화학실험동아리 Enthalpy (명예부원) (Highschool chemistry club 'Enthalpy')
+* 고등학교 상상이룸동아리 무한상상 (명예부원) (Highschool engineering club 'InfinityThinking')
 
-## 연락처
-* cnsh27_1106@cnsh.hs.kr 학술용 이메일
-* cyangsa10@google.com 개인 업무용 이메일
-* +82 50-7133-32132 개인 업무용 전화번호 (전화만)
+## 연락처 (Contact)
+* cnsh27_1106@cnsh.hs.kr 학술용 이메일 (for study)
+* cyangsa10@google.com 개인 업무용 이메일 (for business)
+* +82 50-7133-32132 개인 업무용 전화번호 (전화만) (for business, only call)
 
 <br><br><br><br>
 저를 영입하거나 의뢰 또는 요청을 하고자 하신 분들 중 이력 확인을 원하시는 분은 [information.md](information.md) 파일을 참고해주세요 :)
+If you want to look to sign me up, request me, or confirm my history, please refer to [information.md](information.md) file.

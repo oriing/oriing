@@ -34,4 +34,4 @@ Hello, I'm a Highschool student, Park Jeongsik (nickname: Yangsa) in Republic of
 
 <br><br><br><br>
 저를 영입하거나 의뢰 또는 요청을 하고자 하신 분들 중 이력 확인을 원하시는 분은 [information.md](information.md) 파일을 참고해주세요 :)
-<br>If you want to look to sign me up, request me, or confirm my history, please refer to [information.md](information.md) file.
+<br>If you want to look to sign me up, request me, or confirm my history, please refer to [information-en.md](information-en.md) file.

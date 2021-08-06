@@ -1,10 +1,10 @@
 This is about my personal information.<br>
-If you're interested in me or need a detailed description or contact information, please refer to the [README.md] file.<br>
+If you're interested in me or need a detailed description or contact information, please refer to the [README.md](README.md) file.<br>
 ※If personal information is used without permission, civil and criminal responsibility can be held.※<br><br>
 The following is written for those who want to recruit me or ask me for request.<br>
 I have filled out only some major contents, so if you need additional information, please contact us.
 <br>
-They translated by myself, so there may be errors in the name of the organizations, the corporations, the official responsibilities, etc. If you want to official names, please refer to [information.md] file.<br><br>
+They translated by myself, so there may be errors in the name of the organizations, the corporations, the official responsibilities, etc. If you want to official names, please refer to [information.md](information.md) file.<br><br>
 
 ## Research Activities
 ### High School Journals (R&E)

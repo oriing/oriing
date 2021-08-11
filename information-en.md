@@ -14,7 +14,7 @@ Content Platform by Analyzing the Viral Coefficient. CNSH Mathematical Autonomy 
 * Park Jeongsik, Sin Wonjun, Han Jihun, Park Jungho. Development of Hearing Aid Using Arduino. CNSH Chang Byeok, 21(1), 118-125. 2021.
 * Jeongsik Park, Wonjun Sin, Jihun Han. Development of Auditory Replacement Aid Using SVD Algorithm. Institute For Gifted Education & Promotion 2020 R&E Performance Data Collection, 357. 2021.
 ### Thesis
-* [Park Jeongsik. Proposition for Improving Selection Sort with Search. Journal of Academic Presentation Papers of KIISE, 2186-2188. 2021.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583574)
+* [Park Jeongsik. Proposition for Improving Selection Sort with Search. Journal of Korea Computer Congress 2021 Presentation Papers of KIISE, 2186-2188. 2021.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583574)
 
 ## Major Careers
 

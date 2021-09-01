@@ -79,6 +79,7 @@ Content Platform by Analyzing the Viral Coefficient. CNSH Mathematical Autonomy 
 * H 1st Compute Thinking Promotion Contest Bronze Prize(3rd Place)
 * H 1st Creative Output Presentation Contest Bronze Prize(3rd Place)
 * H 2nd Commendation Certificate(Right Personality Division)
+* H 2nd Mathematical Autonomy Research Festival Silver Prize(2nd Place)
 
 ## Major Completion
 * 2016 GangwonInformation&CulturePromotionAgency 6th Chuncheon Robot Camp

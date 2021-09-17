@@ -25,23 +25,27 @@ Content Platform by Analyzing the Viral Coefficient. CNSH Mathematical Autonomy 
 * C-3 member(19.4.7~), vice-chairman(20.5.10~), head of External Service Management Team(20.11.4~) (by restructuring: head of Cafe Management Team(19.6.9~20.11.3))
 * Digncore staff(20.5.1~21.4.15)
 * Naver Knowledge iN Jijon respondents (Majors: Highschool Entrance, C/C++, Science)
+
 ### Activity in School
-* General club of Go representative(17.3.1~18.2.28)
-* Autonomous club of Informatics UPC representative(18.3.1~19.2.28)
-* General club of Renju representative(19.3.1~20.2.29)
 * UmsaMS A Self-governing Court the presiding judge(19.3.1~20.2.29)
-* Autonomous club of Informatics #include representative of 27th(20.3.1~23.2.28)
-* Autonomous club of School Journal Nae-Ma-Eum member(20.3.1~21.2.28)
-* Academic club of Informatics Informatica representative of 27th(20.3.1~23.2.28)
 * CNSH first grade class president(20.3.1~20.8.31)
 * CNSH Deputy Director of Humanities and Arts(20.9.1~21.8.31)
-* Autonomous club of Informatics #include representative(21.3.1~22.2.28)
-* Autonomous club of Community-management JungCoDong representative(21.3.1~22.2.28)
-* Autonomous club of Literature Information Hermes honorary member(21.3.1~22.2.28)
 * CNSH second grade class president(20.3.1~20.8.31)
-* General club of Debate CurrentEventsTalkTalk representative(21.3.1~22.2.28)
-* Autonomous club of Chemistry Enthalpy honorary member(21.3.1~22.2.28)
-* Autonomous club of Engineering Infinity-Thinking honorary member(21.3.1~22.2.28)
+
+### Activity in Club
+G: General Club, R: Academic Club, A: Autonomous Club
+* G Go (Ba-Duk-ban) representative(17.3.1~18.2.28)
+* A Informatics (UPC) representative(18.3.1~19.2.28)
+* G Renju (ㅇㅁㅇ(omok-wang)) representative(19.3.1~20.2.29)
+* A Informatics (#include) representative of 27th(20.3.1~23.2.28)
+* A School Journal (Nae-Ma-Eum) member(20.3.1~21.2.28)
+* R Informatics (Informatica) representative of 27th(20.3.1~23.2.28)
+* A Informatics (#include) representative(21.3.1~22.2.28)
+* A Community-management (Jung-Co-Dong) representative(21.3.1~22.2.28)
+* A Literature Information (Hermes) honorary member(21.3.1~22.2.28)
+* G Debate (Si-Sa-Talk-Talk) representative(21.3.1~22.2.28)
+* A Chemistry (Enthalpy) honorary member(21.3.1~22.2.28)
+* A Engineering (Mu-Han-Sang-Sang) honorary member(21.3.1~22.2.28)
 
 
 ## Major Awards and Honors

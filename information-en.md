@@ -46,6 +46,8 @@ Content Platform by Analyzing the Viral Coefficient. CNSH Mathematical Autonomy 
 
 ## Major Awards and Honors
 
+※ The number in parenthesis on the right is the number of co-winners.
+
 ### Out of School
 * 2012 Inje Youth Arts Festival Writing Division Winning Award (Inje Culture Center Award)
 * 2012 7th Gangwondo Student Council Korean Language Division Gold Prize (Gangwon-do Inje Office of Education Award)
@@ -53,11 +55,11 @@ Content Platform by Analyzing the Viral Coefficient. CNSH Mathematical Autonomy 
 * 2016 ChunCheon Robot Camp Best Prize (Gangwon Information & Culture Promotion Agency Award)
 * 2017 5th Army Country Love Camp Commendation Certificate (Non Commissiond Officer Academy Yangseong 2nd Education Award)
 * 2018 20th Chungnam Korean Olympiad in Informatics Bronze Prize (Chungcheongnam-do Office of Education Award)
-* 2018 1st Chungnam Dream Tree Coding Edutone Middle School Division JangYoungSil Award (Gongju National University of Education Award)
+* 2018 1st Chungnam Dream Tree Coding Edutone Middle School Division JangYoungSil Award (Gongju National University of Education Award)(4)
 * 2019 Korean Olympiad in Informatics 1st Competition Regional Category Bronze Prize, National Category Bronze Prize (Korean Institute of Information Scientisis And Engineers Award)
 * 2019 Korean Olympiad in Informatics 2nd Competition Encouragement Award (Korean Institute of Information Scientisis And Engineers Award)
 * 2020 Commendation Certificate (Eomsa Middleschool Steering Chairman Award)
-* 2020 Chungnam Creative Mathematical Exploration Competition Youth Mathematical Autonomy Research Division Gold Prize (Chungcheongnam-do Office of Education Award)
+* 2020 Chungnam Creative Mathematical Exploration Competition Youth Mathematical Autonomy Research Division Gold Prize (Chungcheongnam-do Office of Education Award)(3)
 * 2021 Junior Paper Competition Excellence Award (Korean Institute of Information Scientisis And Engineers Award)
 * 2021 The 16th Korea Scholars Conference for Youth 2021 Research Presentation Track - Proposal Natural Science Field : Astronomy Excellent Youth Scholard Award (KSCY Organizing Committee)
 
@@ -65,7 +67,7 @@ Content Platform by Analyzing the Viral Coefficient. CNSH Mathematical Autonomy 
 * M 1st Commendation Certificate(Filial Piety Prize)
 * M 2nd Commendation Certificate(Service Prize)
 * M 2nd School Disability Awareness Improvement Contest Drama Division Gold Prize(1st Place)
-* M 3rd Science Debate Contest Silver Prize(2nd Place)
+* M 3rd Science Debate Contest Silver Prize(2nd Place)(2)
 * M 3rd Commendation Certificate(Service Prize)
 * M 3rd Behind-the-scenes story Contest Bronze Prize(3rd Place)
 * M 3rd Commendation Certificate(Filial Piety Prize)
@@ -73,13 +75,13 @@ Content Platform by Analyzing the Viral Coefficient. CNSH Mathematical Autonomy 
 * M 3rd Academic Excellence Award
 * M 3rd Commendation Certificate(Meritorious Service Prize)
 * H 1st Commendation Certificate(Antecedent Division)
-* H 1st Mathematical Autonomy Research Festival Statistics Division Silver Prize(2nd Place)
+* H 1st Mathematical Autonomy Research Festival Statistics Division Silver Prize(2nd Place)(3)
 * H 1st Programming Challenge Contest Gold Prize(1st Place)
 * H 1st Math Challenge Contest Bronze Prize(3rd Place)
 * H 1st Compute Thinking Promotion Contest Bronze Prize(3rd Place)
-* H 1st Creative Output Presentation Contest Bronze Prize(3rd Place)
+* H 1st Creative Output Presentation Contest Bronze Prize(3rd Place)(3)
 * H 2nd Commendation Certificate(Right Personality Division)
-* H 2nd Mathematical Autonomy Research Festival Silver Prize(2nd Place)
+* H 2nd Mathematical Autonomy Research Festival Silver Prize(2nd Place)(3)
 
 ## Major Completion
 * 2016 GangwonInformation&CulturePromotionAgency 6th Chuncheon Robot Camp

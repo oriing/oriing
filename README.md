@@ -12,10 +12,10 @@ Hello, I'm a Highschool student, Park Jeongsik (nickname: Yangsa) in Republic of
 <br>
 
 ## 소속 (Affiliation)
-* 충남과학고등학교 (과학과 정보전공반)(학생회 인문예술차장) <br>(Chungnam Science Highschool)
-* 양사 소프트 (대표) <br>(Yangsa Soft)
+* 충남과학고등학교 (과학과 정보전공반)<br>(Chungnam Science Highschool)
+* 양사 소프트 (대표)<br>(Yangsa Soft)
 * C-3 (부위원장/외부서비스관리팀장(겸직))
-* 카카오톡 오픈채팅방 작곡/작사하는 사람들의 모임 (방장) <br>(Kakaotalk OpenChat 'a Group of Songwriters')
+* 카카오톡 오픈채팅방 작곡/작사하는 사람들의 모임 (방장)<br>(Kakaotalk OpenChat 'a Group of Songwriters')
 
 ## 연락처 (Contact)
 * cnsh27_1106@cnsh.hs.kr 학술용 이메일 (for study)

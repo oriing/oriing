@@ -24,7 +24,7 @@ Content Platform by Analyzing the Viral Coefficient. CNSH Mathematical Autonomy 
 * Today's Song Series(19.2.19~)
 * C-3 member(19.4.7~), vice-chairman(20.5.10~), head of External Service Management Team(20.11.4~) (by restructuring: head of Cafe Management Team(19.6.9~20.11.3))
 * Digncore staff(20.5.1~21.4.15)
-* Naver Knowledge iN Jijon respondents (Majors: Highschool Entrance, C/C++, Science)
+* Naver Knowledge iN Cho-in grade respondents (Majors: Highschool Entrance, C/C++, Science)
 
 ### Activity in School
 * UmsaMS A Self-governing Court the presiding judge(19.3.1~20.2.29)

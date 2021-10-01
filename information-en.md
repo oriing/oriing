@@ -105,5 +105,4 @@ G: General Club, R: Academic Club, A: Autonomous Club
 * Craftsman Information Processing
 * ITQ OA Master, Powerpoint B, Excel A, Internet A, Haangeul A
 * GTQ 2 rate
-* Kendo 6 rate
 * Renju 5 rate

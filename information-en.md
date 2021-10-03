@@ -8,13 +8,13 @@ They translated by myself, so there may be errors in the name of the organizatio
 
 ## Research Activities
 ### High School Journals (R&E)
-* 송채빈, 정선주, 박정식. A Study on the Trend of Expanding OTT Service-Based 
-Content Platform by Analyzing the Viral Coefficient. CNSH Mathematical Autonomy Research Festival, 11(1), 119-134. 2020.
-* Jeongsik Park. Changing Tonality by Increasing or Decreasing in the Pitch of Music. CNSH Music Rearch. 2020.
-* Park Jeongsik, Sin Wonjun, Han Jihun, Park Jungho. Development of Hearing Aid Using Arduino. CNSH Chang Byeok, 21(1), 118-125. 2021.
-* Jeongsik Park, Wonjun Sin, Jihun Han. Development of Auditory Replacement Aid Using SVD Algorithm. Institute For Gifted Education & Promotion 2020 R&E Performance Data Collection, 357. 2021.
+* 송채빈, 정선주, 박정식. "A Study on the Trend of Expanding OTT Service-Based 
+Content Platform by Analyzing the Viral Coefficient". CNSH Mathematical Autonomy Research Festival, 11(1), 119-134. 2020.
+* Jeongsik Park. "Changing Tonality by Increasing or Decreasing in the Pitch of Music". CNSH Music Rearch. 2020.
+* Park Jeongsik, "Sin Wonjun, Han Jihun, Park Jungho. Development of Hearing Aid Using Arduino". CNSH Chang Byeok, 21(1), 118-125. 2021.
+* Jeongsik Park, "Wonjun Sin, Jihun Han. Development of Auditory Replacement Aid Using SVD Algorithm". Institute For Gifted Education & Promotion 2020 R&E Performance Data Collection, 357. 2021.
 ### Thesis
-* [Park Jeongsik. Proposition for Improving Selection Sort with Search. Journal of Korea Computer Congress 2021 Presentation Papers of KIISE, 2186-2188. 2021.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583574)
+* [Park Jeongsik. "Proposition for Improving Selection Sort with Search". Proc. of the KIISE Korea Computer Congress 2021, 2186-2188. 2021.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583574)
 
 ## Major Careers
 

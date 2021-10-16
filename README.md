@@ -4,16 +4,15 @@ Hello, I'm a Highschool student, Park Jeongsik (nickname: Yangsa) in Republic of
 
 
 [![Github Followers](https://img.shields.io/github/followers/sat0317?color=009300&label=Github%20Followers&style=for-the-badge)](https://github.com/sat0317?tab=followers)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cyangsa10@gmail.com)](mailto:cyangsa10@gmail.com)
 <br>
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=sat0317&title_color=009300)](https://github.com/sat0317)<br>
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sat0317&layout=compact&langs_count=10&title_color=009300)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=sat0317&title_color=009300)](https://github.com/sat0317)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sat0317&layout=compact&langs_count=10&title_color=009300)](https://github.com/anuraghazra/github-readme-stats)
 [![solved.ac Tier](http://mazassumnida.wtf/api/generate_badge?boj=sat0317)](https://solved.ac/sat0317)
 <br>
 
 ## 소속 (Affiliation)
-* 충남과학고등학교 (과학과 정보전공반)<br>(Chungnam Science Highschool)
-* 양사 소프트 (대표)<br>(Yangsa Soft)
+* 충남과학고등학교 (과학과 정보전공반) (Chungnam Science Highschool)
+* 양사 소프트 (대표) (Yangsa Soft)
 * C-3 (부위원장/외부서비스관리팀장(겸직))
 
 ## 연락처 (Contact)
@@ -22,7 +21,7 @@ Hello, I'm a Highschool student, Park Jeongsik (nickname: Yangsa) in Republic of
 * +82 50-7133-32132 개인 업무용 전화번호 (전화만) (for business, only call)
 
 <br><br>
-저를 영입하거나 의뢰 또는 요청을 하고자 하신 분들 중 이력 확인을 원하시는 분은 [information.md](information.md) 파일을 참고해주세요 :)
+저를 영입하거나 의뢰 또는 요청을 하시려는 분 중 이력 확인을 원하시는 분은 [information.md](information.md) 파일을 참고해주세요 :)
 <br>If you want to look to sign me up, request me, or confirm my history, please refer to [information-en.md](information-en.md) file.
 
 

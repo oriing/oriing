@@ -7,14 +7,14 @@ I have filled out only some major contents, so if you need additional informatio
 They translated by myself, so there may be errors in the name of the organizations, the corporations, the official responsibilities, etc. If you want to official names, please refer to [information.md](information.md) file.<br><br>
 
 ## Research Activities
+### Thesis
+* [Park Jeongsik. "Proposition for Improving Selection Sort with Search" Proc. of the KIISE Korea Computer Congress 2021, (2021) : 2186-2188.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583574)
 ### High School Journals (R&E)
 * 송채빈, 정선주, 박정식. "A Study on the Trend of Expanding OTT Service-Based 
 Content Platform by Analyzing the Viral Coefficient" CNSH Mathematical Autonomy Research Festival, 11, 1 (2020) : 119-134.
 * Jeongsik Park. "Changing Tonality by Increasing or Decreasing in the Pitch of Music" CNSH Music Rearch (2020).
 * Park Jeongsik, "Sin Wonjun, Han Jihun, Park Jungho. Development of Hearing Aid Using Arduino" CNSH Chang Byeok, 21, 1 (2021) : 118-125.
 * Jeongsik Park, "Wonjun Sin, Jihun Han. Development of Auditory Replacement Aid Using SVD Algorithm" Institute For Gifted Education & Promotion 2020 R&E Performance Data Collection, (2021) : 357.
-### Thesis
-* [Park Jeongsik. "Proposition for Improving Selection Sort with Search" Proc. of the KIISE Korea Computer Congress 2021, (2021) : 2186-2188.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583574)
 
 ## Major Careers
 

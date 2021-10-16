@@ -27,12 +27,11 @@ Content Platform by Analyzing the Viral Coefficient" CNSH Mathematical Autonomy 
 * Naver Knowledge iN Cho-in grade respondents (Majors: Highschool Entrance, C/C++, Science)
 
 ### Activity in School
-* UmsaMS A Self-governing Court the presiding judge(19.3.1~20.2.29)
+* UmsaMS Self-governing Court the presiding judge(19.3.1~20.2.29)
 * CNSH first grade class president(20.3.1~20.8.31)
 * CNSH Deputy Director of Humanities and Arts(20.9.1~21.8.31)
 * CNSH second grade class president(20.3.1~20.8.31)
-
-### Activity in Club
+#### Activity in Club
 G: General Club, R: Academic Club, A: Autonomous Club
 * G Go (Ba-Duk-ban) representative(17.3.1~18.2.28)
 * A Informatics (UPC) representative(18.3.1~19.2.28)
@@ -99,18 +98,18 @@ G: General Club, R: Academic Club, A: Autonomous Club
 * 2nd Hangul Love Contest (Slogan Division) Gold Prize(1st Place)
 
 ## Major Completion
-* 2016 GangwonInformation&CulturePromotionAgency 6th Chuncheon Robot Camp
+* 2016 Gangwon-Information-&-Culture-Promotion-Agency 6th Chuncheon Robot Camp
 * 2018 Donga-ST 13th Youth Green Camp
-* 2018 충청남도교육청연구정보원스마트리더영재교육원 Smart Leader Gifted Education 6th
-* 2019 FranklinCoveyCo. The Seven Habits Of Highly Effective Teen
-* 2019 MilitaryChildEducationPromotionAgency·HanminAcademy 10th Hanmin Readership Camp
-* 2019 충청남도교육청연구정보원정보영재교육원(SmartLeaderGiftedEducation) Information Gifted Education 7th
-* 2020 SoloLearn HTML Fundamentals Course
-* 2020 SoloLearn C Tutorial Course
-* 2021 PostechPLUS 2020 Winter Hacking Camp
-* 2021 The16thKoreaScholarsConferenceForYouth2021 Research Mentoring Track Engineering Field : Computer Science
-* 2021 The16thKoreaScholarsConferenceForYouth2021 Social Value Session
-* 2021 The16thKoreaScholarsConferenceForYouth2021 Social Value Research Certification (Environmental Pollution and Climate Change)
+* 2018 Chungcheongnamdo-Office-of-Education-Research-Information-Center-Smart-Leader-Gifted-Education-Center Smart Leader Gifted Education 6th
+* 2019 Franklin-Covey-Co. The Seven Habits Of Highly Effective Teen
+* 2019 Military-Child-Education-Promotion-Agency·Hanmin-Academy 10th Hanmin Readership Camp
+* 2019 Chungcheongnamdo-Office-of-Education-Research-Information-Center-Information-gifted-Education-Center Information Gifted Education 7th
+* 2020 Solo-Learn HTML Fundamentals Course
+* 2020 Solo-Learn C Tutorial Course
+* 2021 Postech-PLUS 2020 Winter Hacking Camp
+* 2021 The-16th-Korea-Scholars-Conference-For-Youth-2021 Research Mentoring Track Engineering Field : Computer Science
+* 2021 The-16th-Korea-Scholars-Conference-For-Youth-2021 Social Value Session
+* 2021 The-16th-Korea-Scholars-Conference-For-Youth-2021 Social Value Research Certification (Environmental Pollution and Climate Change)
 
 ## Certificate / Qualification
 * Craftsman Information Processing

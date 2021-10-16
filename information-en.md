@@ -9,12 +9,12 @@ They translated by myself, so there may be errors in the name of the organizatio
 ## Research Activities
 ### High School Journals (R&E)
 * 송채빈, 정선주, 박정식. "A Study on the Trend of Expanding OTT Service-Based 
-Content Platform by Analyzing the Viral Coefficient". CNSH Mathematical Autonomy Research Festival, 11(1), 119-134. 2020.
-* Jeongsik Park. "Changing Tonality by Increasing or Decreasing in the Pitch of Music". CNSH Music Rearch. 2020.
-* Park Jeongsik, "Sin Wonjun, Han Jihun, Park Jungho. Development of Hearing Aid Using Arduino". CNSH Chang Byeok, 21(1), 118-125. 2021.
-* Jeongsik Park, "Wonjun Sin, Jihun Han. Development of Auditory Replacement Aid Using SVD Algorithm". Institute For Gifted Education & Promotion 2020 R&E Performance Data Collection, 357. 2021.
+Content Platform by Analyzing the Viral Coefficient" CNSH Mathematical Autonomy Research Festival, 11, 1 (2020) : 119-134.
+* Jeongsik Park. "Changing Tonality by Increasing or Decreasing in the Pitch of Music" CNSH Music Rearch (2020).
+* Park Jeongsik, "Sin Wonjun, Han Jihun, Park Jungho. Development of Hearing Aid Using Arduino" CNSH Chang Byeok, 21, 1 (2021) : 118-125.
+* Jeongsik Park, "Wonjun Sin, Jihun Han. Development of Auditory Replacement Aid Using SVD Algorithm" Institute For Gifted Education & Promotion 2020 R&E Performance Data Collection, (2021) : 357.
 ### Thesis
-* [Park Jeongsik. "Proposition for Improving Selection Sort with Search". Proc. of the KIISE Korea Computer Congress 2021, 2186-2188. 2021.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583574)
+* [Park Jeongsik. "Proposition for Improving Selection Sort with Search" Proc. of the KIISE Korea Computer Congress 2021, (2021) : 2186-2188.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583574)
 
 ## Major Careers
 
@@ -67,25 +67,36 @@ G: General Club, R: Academic Club, A: Autonomous Club
 * 2021 Junior Paper Competition Excellence Award (Korean Institute of Information Scientisis And Engineers Award)
 * 2021 The 16th Korea Scholars Conference for Youth 2021 Research Presentation Track - Proposal Natural Science Field : Astronomy Excellent Youth Scholard Award (KSCY Organizing Committee)
 
-### In School
-* M 1st Commendation Certificate(Filial Piety Prize)
-* M 2nd Commendation Certificate(Service Prize)
-* M 2nd School Disability Awareness Improvement Contest Drama Division Gold Prize(1st Place)
-* M 3rd Science Debate Contest Silver Prize(2nd Place)(2)
-* M 3rd Commendation Certificate(Service Prize)
-* M 3rd Behind-the-scenes story Contest Bronze Prize(3rd Place)
-* M 3rd Commendation Certificate(Filial Piety Prize)
-* M 3rd Reading Encouragement Poster Making Contest Encouragement Award(4th Place)
-* M 3rd Academic Excellence Award
-* M 3rd Commendation Certificate(Meritorious Service Prize)
-* H 1st Commendation Certificate(Antecedent Division)
-* H 1st Mathematical Autonomy Research Festival Statistics Division Silver Prize(2nd Place)(3)
-* H 1st Programming Challenge Contest Gold Prize(1st Place)
-* H 1st Math Challenge Contest Bronze Prize(3rd Place)
-* H 1st Compute Thinking Promotion Contest Bronze Prize(3rd Place)
-* H 1st Creative Output Presentation Contest Bronze Prize(3rd Place)(3)
-* H 2nd Commendation Certificate(Right Personality Division)
-* H 2nd Mathematical Autonomy Research Festival Silver Prize(2nd Place)(3)
+### In School (after middle school)
+#### Middle School
+* 1st First Semester Best Subject Award(Music)
+* 1st Commendation Certificate(Filial Piety Prize)
+* 2nd Commendation Certificate(Service Prize)
+* 2nd School Disability Awareness Improvement Contest Drama Division Gold Prize(1st Place)
+* 2nd First Semester Best Subject Award(Informatics)
+* 2nd Second Semester Best Subject Award(Moral, Technology and Family, Art, Informatics)
+* 3rd Science Debate Contest Silver Prize(2nd Place)(2)
+* 3rd Commendation Certificate(Service Prize)
+* 3rd Behind-the-scenes story Contest Bronze Prize(3rd Place)
+* 3rd First Semester Best Subject Award(Mathmatics, Art, Music)
+* 3rd Commendation Certificate(Filial Piety Prize)
+* 3rd Reading Encouragement Poster Making Contest Encouragement Award(4th Place)
+* 3rd Second Semester Best Subject Award(Mathmatics, Korean, Art, Music)
+* 3rd Academic Excellence Award
+* 3rd Commendation Certificate(Meritorious Service Prize)
+#### High School
+* 1st First Semester Best Subject Award(Information Science)
+* 1st Commendation Certificate(Antecedent Division)
+* 1st Mathematical Autonomy Research Festival Statistics Division Silver Prize(2nd Place)(3)
+* 1st Programming Challenge Contest Gold Prize(1st Place)
+* 1st Math Challenge Contest Bronze Prize(3rd Place)
+* 1st Compute Thinking Promotion Contest Bronze Prize(3rd Place)
+* 1st Creative Output Presentation Contest Bronze Prize(3rd Place)(3)
+* 1st Second Semester Best Subject Award(Information Science)
+* 2nd Commendation Certificate(Right Personality Division)
+* 2nd Mathematical Autonomy Research Festival Silver Prize(2nd Place)(3)
+* 2nd Hangul Love Contest (Coding Division) Bronze Prize(3rd Place)
+* 2nd Hangul Love Contest (Slogan Division) Gold Prize(1st Place)
 
 ## Major Completion
 * 2016 GangwonInformation&CulturePromotionAgency 6th Chuncheon Robot Camp
@@ -103,6 +114,6 @@ G: General Club, R: Academic Club, A: Autonomous Club
 
 ## Certificate / Qualification
 * Craftsman Information Processing
-* ITQ OA Master, Powerpoint B, Excel A, Internet A, Haangeul A
+* ITQ OA Master, Excel A, Internet A, Haangul A, Powerpoint B
 * GTQ 2 rate
 * Renju 5 rate

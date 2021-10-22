@@ -65,6 +65,7 @@ G: General Club, R: Academic Club, A: Autonomous Club
 * 2020 Chungnam Creative Mathematical Exploration Competition Youth Mathematical Autonomy Research Division Gold Prize (Chungcheongnam-do Office of Education Award)(3)
 * 2021 Junior Paper Competition Excellence Award (Korean Institute of Information Scientisis And Engineers Award)
 * 2021 The 16th Korea Scholars Conference for Youth 2021 Research Presentation Track - Proposal Natural Science Field : Astronomy Excellent Youth Scholard Award (KSCY Organizing Committee)
+* 2021 The 16th Nexon Youth Programming Challenge Special Preliminary Award (NYPC Management Team Award)
 
 ### In School (after middle school)
 #### Middle School

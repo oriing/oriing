@@ -17,7 +17,6 @@ They translated by myself, so there may be errors in the name of the organizatio
 * Jeongsik Park. "Changing Tonality by Increasing or Decreasing in the Pitch of Music", CNSH Music Research (2020) : 1-3.
 * Park Jeongsik. "Making Calculator for Finding Formula Weight Using C Language", CNSH Chemistry Research (2021) : 1-3.
 * Park Jeongsik. "Effects of StarLink Projects, Light Pollution, And Satellites On Astronomical Observation", Proc. of The 16th KSCY Proposal Track Natural Science : Astronomy (2021) : 1-6.
-* [박정식, 강유찬, 지원구. "오답 문제를 고려한 물리학 성취도 평가 프로그램 제작", 2021.10.27. :  http://phy.yangsa.repl.co](http://phy.yangsa.repl.co)
 
 ## Major Careers
 

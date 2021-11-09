@@ -22,7 +22,7 @@ They translated by myself, so there may be errors in the name of the organizatio
 #### Project
 * Yangsa Soft. "KakaoTalk Bot Source Code Generator", Google PlayStore (2018) : released at 2018-07-21.
 * [Yangsa Soft. "Text Changer", Google PlayStore (2018) : released at 2018-07-21.](https://play.google.com/store/apps/details?id=com.yangsa.app.textchanger)
-* [Yangsa Soft. "The Counter", Google PlayStore (2018) : released at 2019-02-26.](https://play.google.com/store/apps/details?id=com.yangsa.app.counter)
+* [Yangsa Soft. "The Counter", Google PlayStore (2019) : released at 2019-02-26.](https://play.google.com/store/apps/details?id=com.yangsa.app.counter)
 * [Yangsa Soft. "Table Clock", Google PlayStore (2020) : released at 2020-02-13.](https://play.google.com/store/apps/details?id=com.yangsa.app.clock)
 * Park Jeongsik. "A Header File Containing 10 Ways to Sorting", School Magazine of CNSH #include (2020) : 45-51.
 

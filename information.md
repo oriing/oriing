@@ -21,7 +21,7 @@
 #### 프로젝트
 * 양사 소프트. "카카오톡 봇 소스코드 생성기", 구글 플레이스토어 (2018) : released at 2018-07-21.
 * [양사 소프트. "Text Changer", 구글 플레이스토어 (2018) : released at 2018-07-21.](https://play.google.com/store/apps/details?id=com.yangsa.app.textchanger)
-* [양사 소프트. "The Counter", 구글 플레이스토어 (2018) : released at 2019-02-26.](https://play.google.com/store/apps/details?id=com.yangsa.app.counter)
+* [양사 소프트. "The Counter", 구글 플레이스토어 (2019) : released at 2019-02-26.](https://play.google.com/store/apps/details?id=com.yangsa.app.counter)
 * [양사 소프트. "탁상시계", 구글 플레이스토어 (2020) : released at 2020-02-13.](https://play.google.com/store/apps/details?id=com.yangsa.app.clock)
 * 박정식. "10가지 정렬 방법이 담긴 헤더파일", 충남과학고등학교 #include 교지 (2020) : 45-51.
 

@@ -10,13 +10,21 @@ They translated by myself, so there may be errors in the name of the organizatio
 ### Proc. Thesis
 * [Park Jeongsik. "Proposition for Improving Selection Sort with Search", Proc. of the KIISE Korea Computer Congress 2021, (2021) : 2186-2188.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583574)
 ### High School Journals (R&E)
-* 송채빈, 정선주, 박정식. "A Study on the Trend of Expanding OTT Service-Based Content Platform by Analyzing the Viral Coefficient", CNSH Mathematical Autonomy Research Festival, 11, 1 (2020) : 119-134.
+* Song Chaebin, Jung Seonju, Park Jeongsik. "A Study on the Trend of Expanding OTT Service-Based Content Platform by Analyzing the Viral Coefficient", CNSH Mathematical Autonomy Research Festival, 11, 1 (2020) : 119-134.
 * Park Jeongsik, "Sin Wonjun, Han Jihun, Park Jungho. Development of Hearing Aid Using Arduino", CNSH Chang Byeok, 21, 1 (2021) : 118-125.
 * Jeongsik Park, "Wonjun Sin, Jihun Han. Development of Auditory Replacement Aid Using SVD Algorithm", Institute For Gifted Education & Promotion 2020 R&E Performance Data Collection, (2021) : 357.
 ### Other Project (Unofficial R&E, Project, Column, etc.)
 * Jeongsik Park. "Changing Tonality by Increasing or Decreasing in the Pitch of Music", CNSH Music Research (2020) : 1-3.
 * Park Jeongsik. "Making Calculator for Finding Formula Weight Using C Language", CNSH Chemistry Research (2021) : 1-3.
 * Park Jeongsik. "Effects of StarLink Projects, Light Pollution, And Satellites On Astronomical Observation", Proc. of The 16th KSCY Proposal Track Natural Science : Astronomy (2021) : 1-6.
+#### Column
+* Park Jeongsik. "The Programming Language and Its Categories", School Magazine of CNSH #include (2020) : 4-10.
+#### Project
+* Yangsa Soft. "KakaoTalk Bot Source Code Generator", Google PlayStore (2018) : released at 2018-07-21.
+* [Yangsa Soft. "Text Changer", Google PlayStore (2018) : released at 2018-07-21.](https://play.google.com/store/apps/details?id=com.yangsa.app.textchanger)
+* [Yangsa Soft. "The Counter", Google PlayStore (2018) : released at 2019-02-26.](https://play.google.com/store/apps/details?id=com.yangsa.app.counter)
+* [Yangsa Soft. "Table Clock", Google PlayStore (2020) : released at 2020-02-13.](https://play.google.com/store/apps/details?id=com.yangsa.app.clock)
+* Park Jeongsik. "A Header File Containing 10 Ways to Sorting", School Magazine of CNSH #include (2020) : 45-51.
 
 ## Major Careers
 
@@ -26,6 +34,7 @@ They translated by myself, so there may be errors in the name of the organizatio
 * Today's Song Series(19.2.19~)
 * C-3 member(19.4.7~), vice-chairman(20.5.10~), head of External Service Management Team(20.11.4~) (by restructuring: head of Cafe Management Team(19.6.9~20.11.3))
 * Digncore staff(20.5.1~21.4.15)
+* 17th KSCY Staff(21.11.9~22.1.30)
 * Naver Knowledge iN Cho-in grade respondents (Majors: Highschool Entrance, C/C++, Science)
 
 ### Activity in School
@@ -37,11 +46,10 @@ They translated by myself, so there may be errors in the name of the organizatio
 G: General Club, R: Academic Club, A: Autonomous Club
 * G Go (Ba-Duk-ban) representative(17.3.1~18.2.28)
 * A Informatics (UPC) representative(18.3.1~19.2.28)
-* G Renju (ㅇㅁㅇ(omok-wang)) representative(19.3.1~20.2.29)
-* A Informatics (#include) representative of 27th(20.3.1~23.2.28)
+* G Renju (ㅇㅁㅇ(OMO)) representative(19.3.1~20.2.29)
+* A Informatics (#include) representative of 27th(20.3.1~23.2.28), representative(21.3.1~22.2.28)
 * A School Journal (Nae-Ma-Eum) member(20.3.1~21.2.28)
 * R Informatics (Informatica) representative of 27th(20.3.1~23.2.28)
-* A Informatics (#include) representative(21.3.1~22.2.28)
 * A Community-management (Jung-Co-Dong) representative(21.3.1~22.2.28)
 * A Literature Information (Hermes) honorary member(21.3.1~22.2.28)
 * G Debate (Si-Sa-Talk-Talk) representative(21.3.1~22.2.28)
@@ -50,13 +58,11 @@ G: General Club, R: Academic Club, A: Autonomous Club
 
 
 ## Major Awards and Honors
-
 ※ The number in parenthesis on the right is the number of co-winners.
 
 ### Out of School
 * 2012 Inje Youth Arts Festival Writing Division Winning Award (Inje Culture Center Award)
 * 2012 7th Gangwondo Student Council Korean Language Division Gold Prize (Gangwon-do Inje Office of Education Award)
-* 2015 13rd Children's Cultural Heritage Drawing Clay Competition Clay Division Winning Award (Chuncheon National Museum Award)
 * 2016 ChunCheon Robot Camp Best Prize (Gangwon Information & Culture Promotion Agency Award)
 * 2017 5th Army Country Love Camp Commendation Certificate (Non Commissiond Officer Academy Yangseong 2nd Education Award)
 * 2018 20th Chungnam Korean Olympiad in Informatics Bronze Prize (Chungcheongnam-do Office of Education Award)
@@ -67,7 +73,6 @@ G: General Club, R: Academic Club, A: Autonomous Club
 * 2020 Chungnam Creative Mathematical Exploration Competition Youth Mathematical Autonomy Research Division Gold Prize (Chungcheongnam-do Office of Education Award)(3)
 * 2021 Junior Paper Competition Excellence Award (Korean Institute of Information Scientisis And Engineers Award)
 * 2021 The 16th Korea Scholars Conference for Youth 2021 Research Presentation Track - Proposal Natural Science Field : Astronomy Excellent Youth Scholard Award (KSCY Organizing Committee)
-* 2021 The 16th Nexon Youth Programming Challenge Special Preliminary Award (NYPC Management Team Award)
 
 ### In School (after middle school)
 #### Middle School
@@ -111,7 +116,6 @@ G: General Club, R: Academic Club, A: Autonomous Club
 * 2020 Solo-Learn C Tutorial Course
 * 2021 Postech-PLUS 2020 Winter Hacking Camp
 * 2021 The-16th-Korea-Scholars-Conference-For-Youth-2021 Research Mentoring Track Engineering Field : Computer Science
-* 2021 The-16th-Korea-Scholars-Conference-For-Youth-2021 Social Value Session
 * 2021 The-16th-Korea-Scholars-Conference-For-Youth-2021 Social Value Research Certification (Environmental Pollution and Climate Change)
 
 ## Certificate / Qualification

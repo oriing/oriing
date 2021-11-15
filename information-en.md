@@ -29,32 +29,32 @@ They translated by myself, so there may be errors in the name of the organizatio
 ## Major Careers
 
 ### Activity
-* Kakaotalk OpenChat 'a Group of Songwriters' admin(17.2.26~)
-* Yangsa Soft representative(18.7.20~)
-* Today's Song Series(19.2.19~)
-* C-3 member(19.4.7~), vice-chairman(20.5.10~), head of External Service Management Team(20.11.4~) (by restructuring: head of Cafe Management Team(19.6.9~20.11.3))
-* Digncore staff(20.5.1~21.4.15)
-* 17th KSCY Staff(21.11.9~22.1.30)
+* Kakaotalk OpenChat 'a Group of Songwriters' admin(17.2.26-)
+* Yangsa Soft representative(18.7.20-)
+* Today's Song Series(19.2.19-)
+* C-3 member(19.4.7-), vice-chairman(20.5.10-), head of External Service Management Team(20.11.4-) (by restructuring: head of Cafe Management Team(19.6.9-20.11.3))
+* Digncore staff(20.5.1-21.4.15)
+* 17th KSCY Staff(21.11.9-22.1.30)
 * Naver Knowledge iN Cho-in grade respondents (Majors: Highschool Entrance, C/C++, Science)
 
 ### Activity in School
-* UmsaMS Self-governing Court the presiding judge(19.3.1~20.2.29)
-* CNSH first grade class president(20.3.1~20.8.31)
-* CNSH Deputy Director of Humanities and Arts(20.9.1~21.8.31)
-* CNSH second grade class president(20.3.1~20.8.31)
+* UmsaMS Self-governing Court the presiding judge(19.3.1-20.2.29)
+* CNSH first grade class president(20.3.1-20.8.31)
+* CNSH Deputy Director of Humanities and Arts(20.9.1-21.8.31)
+* CNSH second grade class president(20.3.1-20.8.31)
 #### Activity in Club
 G: General Club, R: Academic Club, A: Autonomous Club
-* G Go (Ba-Duk-ban) representative(17.3.1~18.2.28)
-* A Informatics (UPC) representative(18.3.1~19.2.28)
-* G Renju (ㅇㅁㅇ(OMO)) representative(19.3.1~20.2.29)
-* A Informatics (#include) representative of 27th(20.3.1~23.2.28), representative(21.3.1~22.2.28)
-* A School Journal (Nae-Ma-Eum) member(20.3.1~21.2.28)
-* R Informatics (Informatica) representative of 27th(20.3.1~23.2.28)
-* A Community-management (Jung-Co-Dong) representative(21.3.1~22.2.28)
-* A Literature Information (Hermes) honorary member(21.3.1~22.2.28)
-* G Debate (Si-Sa-Talk-Talk) representative(21.3.1~22.2.28)
-* A Chemistry (Enthalpy) honorary member(21.3.1~22.2.28)
-* A Engineering (Mu-Han-Sang-Sang) honorary member(21.3.1~22.2.28)
+* G Go (Ba-Duk-ban) representative(17.3.1-18.2.28)
+* A Informatics (UPC) representative(18.3.1-19.2.28)
+* G Renju (ㅇㅁㅇ(OMO)) representative(19.3.1-20.2.29)
+* A Informatics (#include) representative of 27th(20.3.1-23.2.28), representative(21.3.1-22.2.28)
+* A School Journal (Nae-Ma-Eum) member(20.3.1-21.2.28)
+* R Informatics (Informatica) representative of 27th(20.3.1-23.2.28)
+* A Community-management (Jung-Co-Dong) representative(21.3.1-22.2.28)
+* A Literature Information (Hermes) honorary member(21.3.1-22.2.28)
+* G Debate (Si-Sa-Talk-Talk) representative(21.3.1-22.2.28)
+* A Chemistry (Enthalpy) honorary member(21.3.1-22.2.28)
+* A Engineering (Mu-Han-Sang-Sang) honorary member(21.3.1-22.2.28)
 
 
 ## Major Awards and Honors

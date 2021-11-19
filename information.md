@@ -108,11 +108,11 @@
 * 2016 강원정보문화진흥원 춘천로봇캠프 6회
 * 2018 동아ST 제13회 청소년 환경사랑 생명사랑 교실
 * 2018 충청남도교육연구정보원부설스마트리더영재교육원 스마트리더영재교육 6기
-* 2019 FranklinCoveyCo. The Seven Habits Of Highly Effective Teen
+* 2019 Franklin-Covey-Co. The Seven Habits Of Highly Effective Teen
 * 2019 군인자녀교육진흥원·학교법인한민학원 제10회 한민리더십캠프
 * 2019 충청남도교육청연구정보원정보영재교육원(스마트리더영재교육원) 정보영재교육 7기
-* 2020 SoloLearn HTML Fundamentals Course
-* 2020 SoloLearn C Tutorial Course
+* 2020 Solo-Learn HTML Fundamentals Course
+* 2020 Solo-Learn C Tutorial Course
 * 2021 포스텍PLUS동아리 2020년 겨울 해킹캠프
 * 2021 제16회한국청소년학술대회 연구 멘토링 프로그램 공학분야:컴퓨터공학
 * 2021 제16회한국청소년학술대회 Social Value 연구 인증 (환경오염과 기후변화)

@@ -11,8 +11,9 @@ They translated by myself, so there may be errors in the name of the organizatio
 * [Park Jeongsik. "Proposition for Improving Selection Sort with Search", Proc. of the KIISE Korea Computer Congress 2021, (2021) : 2186-2188.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583574)
 ### High School Journals (R&E)
 * Song Chaebin, Jung Seonju, Park Jeongsik. "A Study on the Trend of Expanding OTT Service-Based Content Platform by Analyzing the Viral Coefficient", CNSH Mathematical Autonomy Research Festival, 11, 1 (2020) : 119-134.
-* Park Jeongsik, "Sin Wonjun, Han Jihun, Park Jungho. Development of Hearing Aid Using Arduino", CNSH Chang Byeok, 21, 1 (2021) : 118-125.
-* Jeongsik Park, "Wonjun Sin, Jihun Han. Development of Auditory Replacement Aid Using SVD Algorithm", Institute For Gifted Education & Promotion 2020 R&E Performance Data Collection, (2021) : 357.
+* Park Jeongsik, Sin Wonjun, Han Jihun, Park Jungho. "Development of Hearing Aid Using Arduino", CNSH Chang Byeok, 21, 1 (2021) : 118-125.
+* Jeongsik Park, Wonjun Sin, Jihun Han. "Development of Auditory Replacement Aid Using SVD Algorithm", Institute For Gifted Education & Promotion 2020 R&E Performance Data Collection, (2021) : 357.
+* Park Jeongsik, Choi Jiyun, Pyeong Yechan. "Differences Between Theoretical and Experimental Results on the Expected Value of the Game in Game Theory", CNSH Mathematical Autonomy Research Festival, 12, 1 (2021) : 119-134.
 ### Other Project (Unofficial R&E, Project, Column, etc.)
 * Jeongsik Park. "Changing Tonality by Increasing or Decreasing in the Pitch of Music", CNSH Music Research (2020) : 1-3.
 * Park Jeongsik. "Making Calculator for Finding Formula Weight Using C Language", CNSH Chemistry Research (2021) : 1-3.

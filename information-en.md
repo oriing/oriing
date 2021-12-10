@@ -105,6 +105,8 @@ G: General Club, R: Academic Club, A: Autonomous Club
 * 2nd Mathematical Autonomy Research Festival Silver Prize(2nd Place)(3)
 * 2nd Hangul Love Contest (Coding Division) Bronze Prize(3rd Place)
 * 2nd Hangul Love Contest (Slogan Division) Gold Prize(1st Place)
+* 2nd Software Educating Festival(Convergence Topic Programming Division) Gold Prize(1st Place)
+* 2nd Software Educating Festival(Knowledge Information-Based Writing Division) Bronze Prize(3rd Place)
 
 ## Major Completion
 * 2016 Gangwon-Information-&-Culture-Promotion-Agency 6th Chuncheon Robot Camp

@@ -20,9 +20,9 @@ Hello, I'm a Highschool student, Park Jeongsik (nickname: Yangsa) in Republic of
 * cyangsa10@google.com 개인 업무용 이메일 (for business)
 * +82 50-7133-32132 개인 업무용 전화번호 (전화만) (for business, only call)
 
-<br><br>
+<br>
 저를 영입하거나 의뢰 또는 요청을 하시려는 분 중 이력 확인을 원하시는 분은 제 [포트폴리오 사이트](https://sat0317.notion.site/sat0317/4bacba30e91d42a5932ae999c645524e)를 참고해주세요 :)
 
 
-
+<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsat0317)](https://github.com/sat0317)

@@ -14,6 +14,7 @@ Hello, I'm a Highschool student, Park Jeongsik (nickname: Yangsa) in Republic of
 * 충남과학고등학교 (과학과 정보전공반) (Chungnam Science Highschool)
 * 양사 소프트 (대표) (Yangsa Soft)
 * C-3 (부위원장/외부서비스관리팀장(겸직))
+* 대한오목협회 사무국 (대회운영팀) (Korea Omok Association)
 
 ## 연락처 (Contact)
 * cnsh27_1106@cnsh.hs.kr 학술용 이메일 (for study)

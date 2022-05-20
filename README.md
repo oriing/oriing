@@ -6,7 +6,6 @@ Hello, I'm a Highschool student, Park Jeongsik (nickname: Yangsa) in Republic of
 [![Github Followers](https://img.shields.io/github/followers/sat0317?color=009300&label=Github%20Followers&style=for-the-badge)](https://github.com/sat0317?tab=followers)
 <br>
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=sat0317&title_color=009300)](https://github.com/sat0317)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sat0317&layout=compact&langs_count=10&title_color=009300)](https://github.com/anuraghazra/github-readme-stats)
 [![solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sat0317)](https://solved.ac/sat0317)
 <br>
 

@@ -16,7 +16,7 @@ Hello, I'm a Highschool student, Park Jeongsik (nickname: Yangsa) in Republic of
 
 ## 연락처 (Contact)
 * cnsh27_1106@cnsh.hs.kr 학술용 이메일 (for study)
-* cyangsa10@google.com 개인 업무용 이메일 (for business)
+* cyangsa10@gmail.com 개인 업무용 이메일 (for business)
 * +82 50-7133-32132 개인 업무용 전화번호 (전화만) (for business, only call)
 <br>
 

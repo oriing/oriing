@@ -3,7 +3,7 @@
 Hello, I'm a Highschool student, Park Jeongsik (nickname: Yangsa, Ori) in Republic of Korea. I also work as an indie developer.
 
 
-[![Github Followers](https://img.shields.io/github/followers/sat0317?color=009300&label=Github%20Followers&style=for-the-badge)](https://github.com/sat0317?tab=followers)
+[![Github Followers](https://img.shields.io/github/followers/sat0317?color=009300&label=Github%20Followers&style=for-the-badge)](https://github.com/sat0317?tab=followers)<br>
 [![solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sat0317)](https://solved.ac/sat0317)
 <br>
 

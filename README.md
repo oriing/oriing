@@ -8,7 +8,7 @@ Hello, I'm a Highschool student, Park Jeongsik (nickname: Yangsa, Ori) in Republ
 <br>
 
 ## 소속 (Affiliation)
-* 경희대학교 (컴퓨터공학부 컴퓨터공학과) (Kyung Hee Univercity)
+* 경희대학교 (컴퓨터공학부 컴퓨터공학과) (Kyung Hee University)
 * 양사 소프트 (대표) (Yangsa Soft)
 * C-3 (부위원장/외부서비스관리팀장(겸직))
 

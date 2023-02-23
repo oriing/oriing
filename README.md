@@ -14,10 +14,10 @@ Hello, I'm a Highschool student, Park Jeongsik (nickname: Yangsa, Ori) in Republ
 * 대한오목협회 (사무국 운영위원) (Korea Omok Association)
 
 ## 연락처 (Contact)
+* https://litt.ly/oriing 개인 홈페이지 (homepage)
 * cyangsa10@gmail.com 개인 업무용 이메일 (for business)
 * ori@khu.ac.kr 개인 학술용 이메일 (for study)
 * +82 50-7133-32132 개인 업무용 전화번호 (전화만) (for business, only call)
-* litt.ly/oriing 개인 홈페이지 (homepage)
 
 <br>
 

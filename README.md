@@ -1,6 +1,6 @@
 ## Hello World! 
 안녕하세요! 저는 '양사'와 '오리'라는 닉네임으로 활동하는 학생 '박정식'입니다. 대한민국의 인디 개발자로 활동하고 있습니다.<br>
-Hello, I'm a Highschool student, Park Jeongsik (nickname: Yangsa, Ori) in Republic of Korea. I also work as an indie developer.
+Hello, I'm a student, Park Jeongsik (nickname: Yangsa, Ori) in Republic of Korea. I also work as an indie developer.
 
 
 [![Github Followers](https://img.shields.io/github/followers/sat0317?color=009300&label=Github%20Followers&style=for-the-badge)](https://github.com/sat0317?tab=followers)<br>

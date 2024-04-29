@@ -9,16 +9,17 @@ Hello, I'm a student, Park Jeongsik (nickname: Yangsa, Ori) in Republic of Korea
 
 ## 소속 (Affiliation)
 * 경희대학교 (컴퓨터공학부 컴퓨터공학과) (Kyung Hee University)
+  * 경희대학교 쿠러그 (내정담당자) (KHLUG, Kyung Hee University)
+  * 중앙동아리연합회 학술분과위원장
 * 양사 소프트 (대표) (Yangsa Soft)
 * C-3 (부위원장/외부서비스관리팀장)
-* SUSC (운영진)
 * 대한오목협회 (사무국 운영위원) (Korea Omok Association)
 
 ## 연락처 (Contact)
 * https://litt.ly/oriing 개인 홈페이지 (homepage)
 * cyangsa10@gmail.com 개인 업무용 이메일 (for business)
 * ori@khu.ac.kr 개인 학술용 이메일 (for study)
-* +82 50-7133-32132 개인 업무용 전화번호 (전화만) (for business, only call)
+* +82 10-8113-2132 개인 업무용 전화번호 (for business)
 
 <br>
 

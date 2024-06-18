@@ -1,11 +1,15 @@
-## Hello World! 
+## 이것저것 시도해 보고 있는 오리입니다. 나만의 연못을 찾아 오늘도 날고 있어요.
 안녕하세요! 저는 '양사'와 '오리'라는 닉네임으로 활동하는 학생 '박정식'입니다. 대한민국의 인디 개발자로 활동하고 있습니다.<br>
-Hello, I'm a student, Park Jeongsik (nickname: Yangsa, Ori) in Republic of Korea. I also work as an indie developer.
+Hello, I'm a student, Park Jeongsik (nickname: Yangsa, Ori) in Republic of Korea.
 
 
-[![Github Followers](https://img.shields.io/github/followers/sat0317?color=009300&label=Github%20Followers&style=for-the-badge)](https://github.com/sat0317?tab=followers)<br>
-[![solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sat0317)](https://solved.ac/sat0317)
-<br>
+[![Github Followers](https://img.shields.io/github/followers/sat0317?color=009300&label=Github%20Followers&style=for-the-badge)](https://github.com/sat0317?tab=followers)
+<a href="https://blog.naver.com/oriisme/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF9900?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+<a href="https://www.instagram.com/park_quation/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><br>
+
+| [![solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sat0317)](https://solved.ac/sat0317) | [![프로필](http://mazandi.herokuapp.com/api?handle=sat0317)]([https://https://solved.ac/sat0317) |
+| ------------- | ------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sat0317&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sat0317&layout=compact&theme=buefy&hide_border=true&langs_count=10" alt="language status"/> |
 
 ## 소속 (Affiliation)
 * 경희대학교 (컴퓨터공학부 컴퓨터공학과) (Kyung Hee University)
@@ -14,6 +18,8 @@ Hello, I'm a student, Park Jeongsik (nickname: Yangsa, Ori) in Republic of Korea
 * 양사 소프트 (대표) (Yangsa Soft)
 * C-3 (부위원장/외부서비스관리팀장)
 * 대한오목협회 (사무국 운영위원) (Korea Omok Association)
+
+
 
 ## 연락처 (Contact)
 * https://litt.ly/oriing 개인 홈페이지 (homepage)

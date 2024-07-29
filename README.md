@@ -8,7 +8,7 @@ Hello, I'm a student, Park Jeongsik (nickname: Yangsa, Ori) in Republic of Korea
 
 | [![solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sat0317)](https://solved.ac/sat0317) | [![프로필](http://mazandi.herokuapp.com/api?handle=sat0317)]([https://https://solved.ac/sat0317) |
 | ------------- | ------------- |
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sat0317&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sat0317&layout=compact&theme=buefy&hide_border=true&langs_count=10" alt="language status"/> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=oriing&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriing&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="language status"/> |
 
 ## 소속 (Affiliation)
 * 경희대학교 (컴퓨터공학부 컴퓨터공학과) (Kyung Hee University)
@@ -28,4 +28,4 @@ Hello, I'm a student, Park Jeongsik (nickname: Yangsa, Ori) in Republic of Korea
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsat0317)](https://github.com/sat0317)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foriing&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

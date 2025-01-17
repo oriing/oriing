@@ -17,7 +17,6 @@ Hello, I'm a student, Park Jeongsik (nickname: Yangsa, Ori) in Republic of Korea
 * 한국정보기술연구원 BoB 13기 (보안제품개발트랙 교육생) (Mentee, Best of the Best 13th, KITRI)
 * 양사 소프트 (대표) (Representation, Yangsa Soft)
 * C-3 (부위원장) (Vice Chairman)
-* 한국과학기술정보연구원 사이언스오너 (Scienceoner, KISTI)
 
 
 

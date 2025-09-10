@@ -22,8 +22,6 @@ Hello, I'm a student, Park Jeongsik (nickname: Yangsa, Ori) in Republic of Korea
 * https://litt.ly/oriing 개인 홈페이지 (homepage)
 * cyangsa10@gmail.com 개인 업무용 이메일 (for business)
 * ori@khu.ac.kr 개인 학술용 이메일 (for study)
-* +82 10-8113-2132 개인 업무용 전화번호 (for business)
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foriing&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

@@ -15,9 +15,7 @@ Hello, I'm a student, Park Jeongsik (nickname: Yangsa, Ori) in Republic of Korea
   * 경희대학교 IT동아리 쿠러그 (공동대표) (Co-Representation, KHLUG, Club for IT, Kyung Hee University)
   * 중앙동아리연합회 학술분과위원장 (Representation, Academic Club Subcommittee, Central Club Association)
 * 한국정보기술연구원 BoB 13기 (보안제품개발트랙 교육생) (Mentee, Best of the Best 13th, KITRI)
-* 양사 소프트 (대표) (Representation, Yangsa Soft)
-* C-3 (부위원장) (Vice Chairman)
-
+* 대한민국 육군 사이버작전병 (Korea ARMY Cyber Operations Soldier)
 
 
 ## 연락처 (Contact)

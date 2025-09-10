@@ -8,7 +8,7 @@ Hello, I'm a student, Park Jeongsik (nickname: Yangsa, Ori) in Republic of Korea
 
 | [![solved.ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sat0317)](https://solved.ac/sat0317) | [![프로필](http://mazandi.herokuapp.com/api?handle=sat0317)]([https://https://solved.ac/sat0317) |
 | ------------- | ------------- |
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=oriing&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriing&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="language status"/> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=oriing&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriing&layout=compact&theme=buefy&hide_border=true&include_all_commits=true&langs_count=6" alt="language status"/> |
 
 ## 소속 (Affiliation)
 * 경희대학교 (컴퓨터공학과 & 응용수학과 & 한국어학과) (Dept. of Computer Science and Engineering, Kyung Hee University / multiple major: Applied Mathematics, Korean Language)

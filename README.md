@@ -19,6 +19,7 @@ Hello, I'm a student, Park Jeongsik (nickname: Yangsa, Oriing) in Republic of Ko
     * 부전공: 생명과학대학 스마트팜과학과 (Smart Farm Science)
   * 경희대학교 IT동아리 쿠러그 (공동대표) (Co-Representation, KHLUG, Club for IT, Kyung Hee University)
   * 前 중앙동아리연합회 학술분과위원장 (Representation, Academic Club Subcommittee, Central Club Association)
+  * 시스템보안연구실 학부연구생 (박철준 교수, SysSecLab) | https://syssec.khu.ac.kr/
 * 한국정보기술연구원 BoB 13기 (보안제품개발트랙 교육생) (Mentee, Best of the Best 13th, KITRI)
 * 대한민국 육군 사이버작전병 (Korea ARMY Cyber Operations Soldier)
 
